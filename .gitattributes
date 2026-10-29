@@ -1,0 +1,8 @@
+# 统一按 LF 存储，避免 Windows 检出时出现整文件改动
+* text=auto eol=lf
+
+# 明确二进制
+*.png binary
+*.jpg binary
+*.ico binary
+*.zip binary

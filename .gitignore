@@ -1,0 +1,17 @@
+# 依赖（这里不需要，插件是软链接进 profile 的）
+node_modules/
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.iml
+
+# 本地备份与日志
+*.log
+*.bak
+*.orig
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
+desktop.ini

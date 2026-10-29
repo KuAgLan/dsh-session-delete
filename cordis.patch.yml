@@ -1,0 +1,4 @@
+# dsh-session-delete 删除会话
+- insert:
+    - id: dsh-session-delete
+      name: 'dsh-session-delete'
